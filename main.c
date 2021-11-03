@@ -8,7 +8,7 @@ int main()
 	char *str;
 	char tval1;
 	size_t num_of_bytes = 6;
-	float percentage;
+	float percentage=0;
 	long int period = 20000L;
 	char taster,stanje;
 	
